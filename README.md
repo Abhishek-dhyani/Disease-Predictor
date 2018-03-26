@@ -1,0 +1,1 @@
+This project was developed in Hactivate (a hackathon held at BVCOE ). This project was designed to predict diseases that the user may be suffering through by inputting the symptoms that are being experienced. we have used a decision tree algorith to predict the diseases.
